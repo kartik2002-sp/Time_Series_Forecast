@@ -252,29 +252,7 @@ Generate Final Predictions
 - Jupyter Notebook or JupyterLab
 - Key libraries: pandas, numpy, scikit-learn, statsmodels, tensorflow/pytorch
 
-### Installation
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/kartik2002-sp/Time_Series_Forecast.git
-   cd Time_Series_Forecast
-   ```
-
-2. **Create a virtual environment** (recommended)
-   ```bash
-   python -m venv venv
-   source venv/bin/activate  # On Windows: venv\Scripts\activate
-   ```
-
-3. **Install dependencies**
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-4. **Launch Jupyter Notebook**
-   ```bash
-   jupyter notebook
-   ```
 
 ### Dependencies
 
@@ -339,19 +317,6 @@ Key Python packages used:
 - Economic indicators forecasting
 - Website traffic prediction
 
-## 🤝 Contributing
-
-Contributions are welcome! Please follow these steps:
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/YourFeature`)
-3. Commit changes (`git commit -m 'Add YourFeature'`)
-4. Push to the branch (`git push origin feature/YourFeature`)
-5. Open a Pull Request
-
-## 📝 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 📧 Contact
 
