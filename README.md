@@ -356,7 +356,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 📧 Contact
 
 For questions or feedback, please reach out:
-- **Email**: kartik2002.sp@example.com
+- **Email**: kartiksharma98165@gmail.com
 - **GitHub**: [@kartik2002-sp](https://github.com/kartik2002-sp)
 
 ## 📚 Resources
